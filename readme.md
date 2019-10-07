@@ -56,6 +56,6 @@ We want to keep traffic on our feed at a manageable level. We will avoid RTing, 
 ***
 ### Contact  
 
-If you have any comments, suggestions, or queries, you can contact us via DMs on Twitter, or at [ldnchemevents@gmail.com](mailto:ldnchemevents@gmail.com)  
+If you have any comments, suggestions, or queries, you can contact us via DMs on Twitter, or at [ldnchemevents@gmail.com](mailto:ldnchemevents@gmail.com).  
 
 ***
