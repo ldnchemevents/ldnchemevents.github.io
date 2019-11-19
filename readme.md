@@ -15,12 +15,12 @@ We want to change that, and make sure the community gets more back from the cost
 
 ***
 ### What?  
-The problem is that nobody keeps track of what events are happening in this large community, especially the smaller events (university department seminars, society talks, etc). To help make out community more sustainable, we want to put all the London events of interest to working chemists in one place (even encouraging the odd visitor).  
+The problem is that nobody keeps track of what events are happening in this large community, especially the smaller events (university department seminars, society talks, etc). To help make our community more sustainable, we want to put all the London events of interest to working chemists in one place (and even encourage the odd visitor).  
   
 People have wanted an authoritative resource listing London’s grassroots chemistry events for a long time, especially smaller talks/seminars/etc in academic departments and societies. Unfortunately nobody has time to do the legwork/upkeep. We don’t either.  
 Instead, we hope many hands will make light work. At the moment, we do this using Twitter: we ask people who post/RT London Chemistry Events events to add the [#LdnChemEvents](https://twitter.com/search?q=%23ldnchemevents&src=typed_query&f=live) hashtag to their posts. We’ll automatically retweet everything with #LdnChemEvents (with small delay as a spam-guard; minimal curation).  
   
-We’ve got the ball rolling by RTing some events ourselves, but community participation will determine if this turns out to be a useful resource. We are also looking into a more curated ‘diary’ (if you would like to help, see “Getting Involved”, below).  
+We’re getting the ball rolling by RTing/posting some events ourselves, but community participation will determine if this turns out to be a useful resource. We are also looking into a more curated ‘diary’ (if you would like to help, see “Getting Involved”, below).  
 
 
 ***
@@ -28,9 +28,11 @@ We’ve got the ball rolling by RTing some events ourselves, but community parti
 With relatively few people actively participating, we should hopefully reach a critical mass. 
 We would appreciate it if you could contribute by...
 1.  Using the [#LdnChemEvents](https://twitter.com/search?q=%23ldnchemevents&src=typed_query&f=live) hashtag yourself (and sticking to London Chemistry Events - we don’t want to spam anyone!).
-2.  Encouraging your colleagues to get involved (follow & contribute).
+2.  Encouraging your colleagues to get involved (to contribute & follow).
 3.  Encouraging anyone with the keys to an institutional account to use the [#LdnChemEvents](https://twitter.com/search?q=%23ldnchemevents&src=typed_query&f=live) hashtag for events posts.
 4. Where your institution doesn't post events/welcome outsiders, encouraging them to do so. 
+
+PLEASE don't be the person tweeting about exciting talks in London AFTER the event!
   
 *If you would like to help out with the running of London Chemistry Events, we’d love to hear from you. We would like to grow a small team of volunteers to help with both events curation, and improving our infrastructure. All are welcome, but we imagine those who would get most out of it are active early-career researchers. If you’d like to join us, you can find our contact details below.*
 
