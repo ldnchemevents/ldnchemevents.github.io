@@ -34,7 +34,7 @@ We would appreciate it if you could contribute by...
 
 PLEASE don't be the person tweeting about exciting talks in London AFTER the event!
   
-*If you would like to help out with the running of London Chemistry Events, we’d love to hear from you. We would like to grow a small team of volunteers to help with both events curation, and improving our infrastructure. All are welcome, but we imagine those who would get most out of it are active early-career researchers. If you’d like to join us, you can find our contact details below.*
+*If you would like to help out with the running of London Chemistry Events, we’d love to hear from you. We would like to grow a small team of volunteers to help with both events curation, and improving our infrastructure (fancy curating an online events diary?). We imagine those who would get most out of it are active early-career researchers, but all are welcome. If you’d like to join us, you can find our contact details below.*
 
 
 ***
@@ -42,12 +42,12 @@ PLEASE don't be the person tweeting about exciting talks in London AFTER the eve
 Our aim is to be a small good thing for the community. That requires a little curation, to avoid an explosion of spam. We intend a light touch, but below we set out the kinds of events we would like to focus on, what we would prefer not to RT (and may avoid), and some guidelines on how we hope posting will work.  
 
 #### #LdnChemEvents
-Initially, we suggested some simple questions to establish whether something should be tagged #LdnChemEvents: Is it in London?, Is it Chemistry?, and Is it an Event?  
-Our definitions are broad, to keep ([@LdnChemEvents](https://twitter.com/LdnChemEvents)) focussed as a small good thing. For example, “Is it Chemistry?” will have is a fairly broad interpretation, perhaps in line with the breadth of the Chemistry Nobel Prize. On the other hand, we try and keep things to London, and actual IRL events (though if anybody wants to set up #CentralBeltChemEvents, #HomeCountiesChemEvents, or #UkChemGrants listings, we’d be excited, and will happily help with auto-RT infrastructure).  
+Initially, we suggested some simple questions to establish whether something should be tagged #LdnChemEvents: "Is it in London?", "Is it Chemistry?" and, "Is it an Event?".
+Our definitions are broad, to keep ([@LdnChemEvents](https://twitter.com/LdnChemEvents)) focussed as a small good thing. For example, “Is it Chemistry?” will have is a fairly broad interpretation, perhaps in line with the breadth of the Chemistry Nobel Prize. On the other hand, we try and keep things to London, and actual IRL events (though if anybody wants to set up #CentralBeltChemEvents, #NorthernPowerhouseChemEvents, or #UkChemGrants listings, we’d be excited, and will happily help with auto-RT infrastructure).  
 
 #### Kinds of Events
-Broadly, our focus will be on grassroots events of interest to working chemists, especially those missed by other listings (e.g. big international conferences). Our bias is to events which are cheap or free to attend; these tend to be run by societies, or academic institutions. Despite this, we are happy to make the community aware of relevant paid or commerical events.  
-We have received a couple of comments on bias towards particular areas of chemistry, and institutions. We are human. If you’d like to cover more of your favourite kinds of [#LdnChemEvents](https://twitter.com/search?q=%23ldnchemevents&src=typed_query&f=live), we suggest you get involved by adding the hashtag to appropriate tweets. We’ll do the rest…  
+Broadly, our focus will be on grassroots events of interest to working chemists, especially those missed by other listings (e.g. big international conferences). Our bias is to events which are cheap or free to attend; these tend to be run by societies, or universities. We're still happy to make the community aware of relevant paid or commerical events, though.
+We have received a couple of comments on bias towards particular areas of chemistry, and institutions. We are human. If you’d like to cover more of your favourite kinds of [#LdnChemEvents](https://twitter.com/search?q=%23ldnchemevents&src=typed_query&f=live), we suggest you get involved by adding the hashtag to appropriate tweets, or posting events. We’ll do the rest…  
 
 #### How we will tag/RT
 We will automatically RT tweets with the [#LdnChemEvents](https://twitter.com/search?q=%23ldnchemevents&src=typed_query&f=live) hashtag. At present, this is automated, and can deal with the volume of traffic we receive. Since many events are initially listed quite some time before they take place, posts may be revived a second time nearer to the event (or important deadlines).  
@@ -58,6 +58,6 @@ We want to keep traffic on our feed at a manageable level. We will avoid RTing, 
 ***
 ### Contact  
 
-If you have any comments, suggestions, or queries, you can contact us via DMs on Twitter, or at [ldnchemevents@gmail.com](mailto:ldnchemevents@gmail.com).  
+If you have any comments, suggestions, or queries (or you'd like to get involved), you can contact us via DMs on Twitter, or at [ldnchemevents@gmail.com](mailto:ldnchemevents@gmail.com).  
 
 ***
