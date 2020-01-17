@@ -43,7 +43,7 @@ Our aim is to be a small good thing for the community. That requires a little cu
 
 #### #LdnChemEvents
 Initially, we suggested some simple questions to establish whether something should be tagged #LdnChemEvents: "Is it in London?", "Is it Chemistry?" and, "Is it an Event?".
-Our definitions are broad, to keep ([@LdnChemEvents](https://twitter.com/LdnChemEvents)) focussed as a small good thing. For example, “Is it Chemistry?” will have is a fairly broad interpretation, perhaps in line with the breadth of the Chemistry Nobel Prize. On the other hand, we try and keep things to London, and actual IRL events (though if anybody wants to set up #CentralBeltChemEvents, #NorthernPowerhouseChemEvents, or #UkChemGrants listings, we’d be excited, and will happily help with auto-RT infrastructure).  
+Our definitions are broad, to keep ([@LdnChemEvents](https://twitter.com/LdnChemEvents)) focussed as a small good thing. For example, “Is it Chemistry?” will have is a fairly broad interpretation, perhaps in line with the breadth of the Chemistry Nobel Prize. On the other hand, we try and keep things to London, and actual IRL events (though if anybody wants to set up #CentralBeltChemEvents, #NorthernPowerhouseChemEvents, or #WemChem listings, we’d be excited, and happily help with auto-RT infrastructure).  
 
 #### Kinds of Events
 Broadly, our focus will be on grassroots events of interest to working chemists, especially those missed by other listings (e.g. big international conferences). Our bias is to events which are cheap or free to attend; these tend to be run by societies, or universities. We're still happy to make the community aware of relevant paid or commerical events, though.
