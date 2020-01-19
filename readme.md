@@ -47,6 +47,7 @@ Our definitions are broad, to keep ([@LdnChemEvents](https://twitter.com/LdnChem
 
 #### Kinds of Events
 Broadly, our focus will be on grassroots events of interest to working chemists, especially those missed by other listings (e.g. big international conferences), or which are often under-attended. Our bias is to events which are cheap or free to attend; these tend to be run by societies, or universities. We're happy to make the community aware of relevant paid or commerical events, though.
+Where we post events, we're usually posting publicly available information. We try and get it right (and will do all we can to fix it if/when we don't), but we'd strongly suggest that you check the source/link/hosts for details & updates before making a trip.
 We have received a couple of comments on bias towards particular areas of chemistry, and institutions. We are human. If you’d like to cover more of your favourite kinds of [#LdnChemEvents](https://twitter.com/search?q=%23ldnchemevents&src=typed_query&f=live), we suggest you get involved: adding the hashtag to appropriate tweets, or posting events. We’ll do the rest…
 
 #### How we will tag/RT
