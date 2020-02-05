@@ -50,7 +50,7 @@ Broadly, our focus will be on grassroots events of interest to working chemists,
 
 Where we post events, we're usually posting publicly available information. We try and get it right (and will do all we can to fix it if/when we don't), but we'd strongly suggest that you check the source/link/hosts for details & updates before making a trip.
 
-We have received a couple of comments on bias towards particular areas of chemistry, and institutions. We are human. If you’d like to cover more of your favourite kinds of [#LdnChemEvents](https://twitter.com/search?q=%23ldnchemevents&src=typed_query&f=live), we suggest you get involved: adding the hashtag to appropriate tweets, or posting events. We’ll do the rest…
+We have received a couple of comments on bias towards particular areas of chemistry, and institutions. We are human, adn don't pretent to make comprehensive listings! There is a lot going on, and we may miss you talk, your mates' talks, and Nobel prizrwinners' talks. If you’d like to cover more of your favourite kinds of [#LdnChemEvents](https://twitter.com/search?q=%23ldnchemevents&src=typed_query&f=live), we suggest you get involved: adding the hashtag to appropriate tweets, or posting events. We’ll do the rest…
 
 #### How we will tag/RT
 We will automatically RT tweets with the [#LdnChemEvents](https://twitter.com/search?q=%23ldnchemevents&src=typed_query&f=live) hashtag. At present, this is automated, and can deal with the volume of traffic we receive. Since many events are initially listed quite some time before they take place, posts may be revived a second time nearer to the event (or important deadlines).  
